@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Soat",
+      "info": "Soat yaxshi sifatli Amerikada ishlab chiqarilgan",
+      "price": 40.99,
+      "img": "https://burst.shopifycdn.com/photos/wrist-watches.jpg?width=1000&format=pjpg&exif=0&iptc=0",
+      "liked": false,
+      "like": []
+    },
+    {
+      "id": "2",
+      "name": "O'simlik sun'iy",
+      "info": "O'simlik sun'iy yetishtirilgan",
+      "price": 40.99,
+      "img": "https://img.freepik.com/free-vector/white-product-podium-with-green-tropical-palm-leaves-golden-round-arch-green-wall_87521-3023.jpg",
+      "liked": false,
+      "like": []
+    },
+    {
+      "id": "3",
+      "name": "Kamera",
+      "info": "Kamera yaxshi sifatli Amerikada ishlab chiqarilgan",
+      "price": 40.99,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMlP0BGWfJN7sSFopvMa4428foW15YGZN0kA&s",
+      "liked": false
+    },
+    {
+      "id": "4",
+      "name": "Noutbuk",
+      "info": "Noutbuk yaxshi sifatli Amerikada ishlab chiqarilgan",
+      "price": 40.99,
+      "img": "https://burst.shopifycdn.com/photos/photography-product-download.jpg?width=1000&format=pjpg&exif=0&iptc=0",
+      "liked": false
+    }
+  ],
+  "like": []
+}
